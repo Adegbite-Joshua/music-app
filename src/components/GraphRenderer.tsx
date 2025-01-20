@@ -1,7 +1,7 @@
 // src/components/GraphRenderer.tsx
 
 import React, { useState } from 'react';
-import ReactFlow, { Background, Controls, Node, Edge } from 'reactflow';
+import ReactFlow, { Background, Node, Edge } from 'reactflow';
 import 'reactflow/dist/style.css';
 
 // Define the shape of the data for nodes and edges
